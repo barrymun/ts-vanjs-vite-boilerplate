@@ -1,1 +1,1 @@
-export const repoUrl: string = "";
+export const repoUrl: string = "https://github.com/barrymun/ts-vanjs-vite-boilerplate";
